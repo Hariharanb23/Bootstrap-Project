@@ -1,0 +1,46 @@
+.navbar-toggler {
+    border-color: #ccc;
+}
+
+.navbar-toggler:hover {
+    background-color: darkgray;
+}
+
+.nav-link:hover {
+    color: #ff5722 !important;
+}
+
+
+#hover-btn {
+    background-color: #eee2b5;
+}
+
+#hover-btn:hover {
+    background-color: black;
+    color: yellow;
+}
+
+.radio-btn-ip[type=radio] {
+    width: 17px;
+    height: 17px;
+    accent-color: black;
+}
+
+
+
+@media only screen and (min-width:768px) {
+    
+    .section1-about {
+        height: 820px;
+    }
+   
+    .rev2 {
+        transform: translate(-120px,70px);
+    }
+
+    .rev3 {
+        width: 40%;
+    }
+
+}
+    
